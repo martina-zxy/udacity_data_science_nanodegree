@@ -1,2 +1,2 @@
-# udacity_data_science_nanodegree
-A collection of projects for 
+# Udacity Data Science Nanodegree Submission
+A collection of projects for Data Science Nanodegree from Udacity
